@@ -1,0 +1,7 @@
+{
+  "name": "JapanLandscapes Quiz Gen",
+  "description": "Upload a photo to generate an educational quiz based on Japanese culture and landscapes using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
